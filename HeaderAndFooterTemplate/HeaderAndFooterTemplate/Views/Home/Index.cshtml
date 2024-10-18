@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/views/shared/_Layout1.cshtml";
+}
+
+<h1>Index Page</h1>
+
+<p>This is my home page</p>
+
+
+
+
+
+@* Viewdata *@
+<h1>View Data</h1>
+@ViewData["data1"]
+<br />
+@ViewData["data2"]
+<br />
+@ViewData["data3"]
+<br />
+@{
+    foreach (var items in (string[])ViewData["data4"])
+    {
+        <h2>@items</h2>
+    } 
+}
+@{
+    foreach(var items in (List<string>)ViewData["data5"])
+    {
+        <h2>@items</h2>
+    }  
+
+}
+
+
+
+
+
+    @* ViewBag *@
+<h1>ViewBag</h1>
+@ViewBag.VBdata1
+<br />
+@ViewBag.VBdata2
+<br />
+@ViewBag.VBdata3
+<br />
+@{
+    foreach (var items in ViewBag.VBdata4)
+    {
+        <h2>@items</h2>
+    }
+}
+@{
+    foreach (var items in ViewBag.VBdata5)
+    {
+        <h2>@items</h2>
+    }
+
+}
+    @* accessing ViewData from ViewBag *@
+    @ViewBag.myname;
+
+
+
+
+    @* TempData Concept *@
+    <h1>TempData</h1>
+
+    @ViewData["VDdataA"]
+    <br />
+    @ViewBag.VBdataA
+    <br />
+    @TempData["TDdataA"]
+    <br />

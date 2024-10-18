@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Migrations\\20241013165448_initfirstdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241013165448_initfirstdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\controllers\\productwithgenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:controllers\\productwithgenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\model\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:model\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|d:\\software\\.net projects\\genericrepositorypatternwebapi\\genericrepositorypatternwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A62822C4-521E-464D-94C6-D05C7D499205}|GenericRepositoryPatternWebAPI.csproj|solutionrelative:genericrepositorypatternwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241013165448_initfirstdb.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Migrations\\20241013165448_initfirstdb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241013165448_initfirstdb.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Migrations\\20241013165448_initfirstdb.cs",
+              "RelativeToolTip": "Migrations\\20241013165448_initfirstdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:54:48.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T16:38:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:34:55.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T16:38:23.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:07:22.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductWithGenericRepo.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Controllers\\ProductWithGenericRepo.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductWithGenericRepo.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Controllers\\ProductWithGenericRepo.cs",
+              "RelativeToolTip": "Controllers\\ProductWithGenericRepo.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwEYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:44:31.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Model\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "Model\\ProductRequest.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Model\\ProductRequest.cs",
+              "RelativeToolTip": "Model\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:25:03.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Model\\Blog.cs",
+              "RelativeDocumentMoniker": "Model\\Blog.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Model\\Blog.cs",
+              "RelativeToolTip": "Model\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:38:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:34:00.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:40:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:07:44.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:50:25.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepositoryPatternWebAPI",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\GenericRepositoryPatternWebAPI.csproj",
+              "RelativeDocumentMoniker": "GenericRepositoryPatternWebAPI.csproj",
+              "ToolTip": "D:\\software\\.Net Projects\\GenericRepositoryPatternWebAPI\\GenericRepositoryPatternWebAPI.csproj",
+              "RelativeToolTip": "GenericRepositoryPatternWebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T13:05:06.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

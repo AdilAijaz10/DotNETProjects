@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h1>Current Date and Time is @DateTime.Now</h1>
+<h1>Current Year is @DateTime.Now.Year</h1>
+@{
+    var name ="Adil";
+    var age = 18;
+}
+  <h1>name : @name</h1>
+  <h1>age : @age</h1>
+@{
+    var myname = "Adil";
+    if (myname.Equals("Adil"))
+    {
+        <h1>hey @myname</h1>
+    }
+    else
+    {
+        <h1>No Name</h1>
+    }
+}
+@{
+    for (int i = 0; i < 4; i++)
+    {
+        <h2>@i</h2>
+    }
+}
+@{
+    string [] names={"Adil","Ramish","Zahir"};
+    foreach (var item in names)
+    {
+        <h2>@item</h2>
+    }
+}

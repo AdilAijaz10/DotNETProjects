@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #333;
+            padding: 10px 20px;
+        }
+
+        .logo img {
+            height: 40px;
+        }
+
+        .nav-container {
+            flex-grow: 1;
+            text-align: right;
+        }
+
+        header nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+            header nav ul li {
+                display: inline;
+                margin: 0 15px;
+            }
+
+                header nav ul li a {
+                    color: white;
+                    text-decoration: none;
+                    font-weight: bold;
+                }
+
+                    header nav ul li a:hover {
+                        text-decoration: underline;
+                    }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            display: flex;
+            justify-content: space-between;
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .footer-section {
+            flex: 1;
+            margin: 0 10px;
+        }
+
+            .footer-section img {
+                height: 40px;
+                display: block;
+                margin: 0 auto 10px;
+            }
+
+            .footer-section p {
+                margin: 10px 0;
+            }
+
+        footer nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+            footer nav ul li {
+                margin: 10px 0;
+            }
+
+                footer nav ul li a {
+                    color: white;
+                    text-decoration: none;
+                }
+
+                    footer nav ul li a:hover {
+                        text-decoration: underline;
+                    }
+    </style>
+</head>
+<body>
+    
+    <header>
+        <div class="logo">
+            <a href="#home"><img src="logo.png" alt="Logo"></a>
+        </div>
+        <div class="nav-container">
+            <nav>
+                <ul class="nav-links">
+                    <li>@Html.ActionLink("Home", "Index","Home") </li>
+                    <li>@Html.ActionLink("About Us", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact Us", "Contact", "Home")</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main> @RenderBody() </main>
+       
+
+    <footer>
+        <div class="footer-section logo-description">
+            <img src="logo.png" alt="Logo">
+            <p>Your Website Description Here</p>
+        </div>
+        <div class="footer-section">
+            <nav>
+                <ul class="footer-links">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About Us", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact Us", "Contact", "Home")</li>
+                </ul>
+            </nav>
+        </div>
+        <div class="footer-section">
+            <nav>
+                <ul class="footer-links">
+                    <li><a href="#privacy">Privacy Policy</a></li>
+                    <li><a href="#terms">Terms of Service</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+</body>
+</html>

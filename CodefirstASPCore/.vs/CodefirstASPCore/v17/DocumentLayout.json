@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\software\\.Net Projects\\CodefirstASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\migrations\\20240819201605_codefirstaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:migrations\\20240819201605_codefirstaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|d:\\software\\.net projects\\codefirstaspcore\\migrations\\20240819200430_codefirstdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A66EE-8FE1-4FFE-B62F-F3AD6B33D4B3}|CodefirstASPCore.csproj|solutionrelative:migrations\\20240819200430_codefirstdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:43:56.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDBContext.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "Models\\StudentDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T19:06:39.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T19:06:22.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:57:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:29:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T20:58:54.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T17:09:54.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T18:31:11.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T15:53:26.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T19:03:26.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240819200430_CodeFirstDB.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Migrations\\20240819200430_CodeFirstDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819200430_CodeFirstDB.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Migrations\\20240819200430_CodeFirstDB.cs",
+              "RelativeToolTip": "Migrations\\20240819200430_CodeFirstDB.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:04:30.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240819201605_CodeFirstAddClass.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\CodefirstASPCore\\Migrations\\20240819201605_CodeFirstAddClass.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819201605_CodeFirstAddClass.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\CodefirstASPCore\\Migrations\\20240819201605_CodeFirstAddClass.cs",
+              "RelativeToolTip": "Migrations\\20240819201605_CodeFirstAddClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:16:05.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

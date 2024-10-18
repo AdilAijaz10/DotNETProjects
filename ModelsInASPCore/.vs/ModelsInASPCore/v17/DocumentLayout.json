@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\software\\.Net Projects\\ModelsInASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D06FB1C-5DC1-4E65-86F3-A4BD20EB5927}|ModelsInASPCore\\ModelsInASPCore.csproj|d:\\software\\.net projects\\modelsinaspcore\\modelsinaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D06FB1C-5DC1-4E65-86F3-A4BD20EB5927}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D06FB1C-5DC1-4E65-86F3-A4BD20EB5927}|ModelsInASPCore\\ModelsInASPCore.csproj|d:\\software\\.net projects\\modelsinaspcore\\modelsinaspcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D06FB1C-5DC1-4E65-86F3-A4BD20EB5927}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D06FB1C-5DC1-4E65-86F3-A4BD20EB5927}|ModelsInASPCore\\ModelsInASPCore.csproj|d:\\software\\.net projects\\modelsinaspcore\\modelsinaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D06FB1C-5DC1-4E65-86F3-A4BD20EB5927}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D06FB1C-5DC1-4E65-86F3-A4BD20EB5927}|ModelsInASPCore\\ModelsInASPCore.csproj|d:\\software\\.net projects\\modelsinaspcore\\modelsinaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D06FB1C-5DC1-4E65-86F3-A4BD20EB5927}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\ModelsInASPCore\\ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\software\\.Net Projects\\ModelsInASPCore\\ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T16:41:20.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\ModelsInASPCore\\ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\software\\.Net Projects\\ModelsInASPCore\\ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T16:22:01.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\ModelsInASPCore\\ModelsInASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\ModelsInASPCore\\ModelsInASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelsInASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:13:38.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\ModelsInASPCore\\ModelsInASPCore\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Models\\StudentModel.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\ModelsInASPCore\\ModelsInASPCore\\Models\\StudentModel.cs",
+              "RelativeToolTip": "ModelsInASPCore\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:06:52.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

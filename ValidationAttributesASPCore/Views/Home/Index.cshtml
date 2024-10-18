@@ -1,0 +1,45 @@
+﻿@model ValidationAttributesASPCore.Models.Student
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form asp-controller="Home" asp-action="Index" method="post">
+                <input asp-for="Name" class="form-control" placeholder="Enter Name">
+                <span asp-validation-for="Name" style="color: red"></span>
+                <br />
+                <input asp-for="Email" class="form-control" placeholder="Enter Email">
+                <span asp-validation-for="Email" style="color: red"></span>
+                <br />
+                <input asp-for="Age" class="form-control" placeholder="Enter Age">
+                <span asp-validation-for="Age" style="color: red"></span>
+                <br />
+                <input asp-for="Password" type="password" class="form-control" placeholder="Enter Password">
+                <span asp-validation-for="Password" style="color: red"></span>
+                <br />
+                <label asp-for="ComparePassword"></label>
+                <input asp-for="ComparePassword" type="password" class="form-control" placeholder="Enter Confirm Password">
+                <span asp-validation-for="ComparePassword" style="color: red"></span>
+                <br />
+                <input asp-for="PNumber" class="form-control" placeholder="Enter your Phone Number">
+                <span asp-validation-for="PNumber" style="color: red"></span>
+                <br />
+                <input asp-for="WebsiteURL" class="form-control" placeholder="Enter your website URL">
+                <span asp-validation-for="WebsiteURL" style="color: red"></span>
+                <br />
+
+                <div asp-validation-summary="All" style="color:red;"></div>
+
+                <input type="submit" name="submit" class="btn btn-outline-primary" />
+            </form>
+        </div>
+    </div>
+</div>
+

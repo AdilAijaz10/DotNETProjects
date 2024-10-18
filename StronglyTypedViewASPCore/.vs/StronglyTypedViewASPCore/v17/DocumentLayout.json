@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\software\\.Net Projects\\StronglyTypedViewASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA670259-2E58-4071-BF71-C2E23939CDD6}|StronglyTypedViewASPCore\\StronglyTypedViewASPCore.csproj|d:\\software\\.net projects\\stronglytypedviewaspcore\\stronglytypedviewaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA670259-2E58-4071-BF71-C2E23939CDD6}|StronglyTypedViewASPCore\\StronglyTypedViewASPCore.csproj|solutionrelative:stronglytypedviewaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA670259-2E58-4071-BF71-C2E23939CDD6}|StronglyTypedViewASPCore\\StronglyTypedViewASPCore.csproj|d:\\software\\.net projects\\stronglytypedviewaspcore\\stronglytypedviewaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA670259-2E58-4071-BF71-C2E23939CDD6}|StronglyTypedViewASPCore\\StronglyTypedViewASPCore.csproj|solutionrelative:stronglytypedviewaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA670259-2E58-4071-BF71-C2E23939CDD6}|StronglyTypedViewASPCore\\StronglyTypedViewASPCore.csproj|d:\\software\\.net projects\\stronglytypedviewaspcore\\stronglytypedviewaspcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA670259-2E58-4071-BF71-C2E23939CDD6}|StronglyTypedViewASPCore\\StronglyTypedViewASPCore.csproj|solutionrelative:stronglytypedviewaspcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA670259-2E58-4071-BF71-C2E23939CDD6}|StronglyTypedViewASPCore\\StronglyTypedViewASPCore.csproj|d:\\software\\.net projects\\stronglytypedviewaspcore\\stronglytypedviewaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA670259-2E58-4071-BF71-C2E23939CDD6}|StronglyTypedViewASPCore\\StronglyTypedViewASPCore.csproj|solutionrelative:stronglytypedviewaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\StronglyTypedViewASPCore\\StronglyTypedViewASPCore\\Program.cs",
+              "RelativeDocumentMoniker": "StronglyTypedViewASPCore\\Program.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\StronglyTypedViewASPCore\\StronglyTypedViewASPCore\\Program.cs",
+              "RelativeToolTip": "StronglyTypedViewASPCore\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:39:52.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\StronglyTypedViewASPCore\\StronglyTypedViewASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypedViewASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\software\\.Net Projects\\StronglyTypedViewASPCore\\StronglyTypedViewASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StronglyTypedViewASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T19:34:23.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\StronglyTypedViewASPCore\\StronglyTypedViewASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StronglyTypedViewASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\StronglyTypedViewASPCore\\StronglyTypedViewASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StronglyTypedViewASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:30:15.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\software\\.Net Projects\\StronglyTypedViewASPCore\\StronglyTypedViewASPCore\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "StronglyTypedViewASPCore\\Models\\Employee.cs",
+              "ToolTip": "D:\\software\\.Net Projects\\StronglyTypedViewASPCore\\StronglyTypedViewASPCore\\Models\\Employee.cs",
+              "RelativeToolTip": "StronglyTypedViewASPCore\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:27:40.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

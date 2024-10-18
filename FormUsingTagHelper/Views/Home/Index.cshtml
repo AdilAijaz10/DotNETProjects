@@ -1,0 +1,52 @@
+﻿@model FormUsingTagHelper.Models.Employee;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form class="d-grid" asp-action="Index" asp-controller="Home" method="Post">
+                <label asp-for="Name">Enter Name</label>
+                <input asp-for="Name" placeholder="Enter Your Name" class="form-control">
+                <br />
+
+                <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+                <option value="value">Select Gender</option>
+                </select>
+                
+                <br />
+                <input asp-for="Age" placeholder="Enter Your Age" class="form-control">
+                <br />
+                <input asp-for="Designation" placeholder="Enter Your Designation" class="form-control">
+                <br />
+                <input asp-for="Salary" placeholder="Enter Your Salary" class="form-control">
+                
+                <label>Married</label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="Yes">
+                    <label class="form-check-label" for="flexRadioDefault1">
+                       Yes
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="Married" value="No">
+                    <label class="form-check-label" for="flexRadioDefault2">
+                        No
+                    </label>
+                </div>
+                <textarea asp-for="Description" class="form-control" placeholder="Enter Description" rows="5">
+                    Write somwthing
+                </textarea>
+                <br />
+                <input type="submit" value="submit" class="btn btn-outline-primary btn-block">
+            </form>
+        </div>
+    </div>
+
+</div>

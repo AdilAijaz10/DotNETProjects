@@ -1,0 +1,50 @@
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\appsettings.json
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.exe
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.deps.json
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.runtimeconfig.json
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.dll
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.pdb
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.AssemblyInfoInputs.cache
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.AssemblyInfo.cs
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.csproj.CoreCompileInputs.cache
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.ASPCoreMiddlewares.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPCoreMiddlewares.props
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreMiddlewares.props
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPCoreMiddlewares.props
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\scopedcss\bundle\ASPCoreMiddlewares.styles.css
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.dll
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\refint\ASPCoreMiddlewares.dll
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.pdb
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.genruntimeconfig.cache
+C:\Users\adila\source\repos\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ref\ASPCoreMiddlewares.dll
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\appsettings.Development.json
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\appsettings.json
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.exe
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.deps.json
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.runtimeconfig.json
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.dll
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\bin\Debug\net8.0\ASPCoreMiddlewares.pdb
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.AssemblyInfoInputs.cache
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.AssemblyInfo.cs
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.csproj.CoreCompileInputs.cache
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.MvcApplicationPartsAssemblyInfo.cache
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets.build.json
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets.development.json
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.ASPCoreMiddlewares.Microsoft.AspNetCore.StaticWebAssets.props
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPCoreMiddlewares.props
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPCoreMiddlewares.props
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPCoreMiddlewares.props
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\staticwebassets.pack.json
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\scopedcss\bundle\ASPCoreMiddlewares.styles.css
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.dll
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\refint\ASPCoreMiddlewares.dll
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.pdb
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ASPCoreMiddlewares.genruntimeconfig.cache
+D:\software\.Net Projects\ASPCoreMiddlewares\ASPCoreMiddlewares\obj\Debug\net8.0\ref\ASPCoreMiddlewares.dll
